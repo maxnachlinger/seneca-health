@@ -1,0 +1,1 @@
+| {{=it.displayName}} | {{=it.buildBadge}} | {{=it.dependenciesBadge}} | {{=it.codeClimateBadge}} | {{=it.repositoryString}} |
